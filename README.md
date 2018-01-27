@@ -1,6 +1,5 @@
 # CaseForecastBackpro
-Forecasting the number of cases of disease using Backpropagation Neural Network
----Abstract---
+Abstract: 
 Changes in the number of cases of disease is very influential on health improvement efforts both in terms of medicines availability, 
 targeted medicines, damaged medicines and so forth. Knowing the pattern of the number of cases of disease is very important for 
 some activities and jobs that exist. Therefore it is necessary to forecast the number of cases of disease to determine the 
